@@ -11,3 +11,8 @@ h2 {
     color: darkred;
     font-weight: 200;
 }
+
+img {
+    height: auto;
+    width: 300px;
+}
